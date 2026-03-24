@@ -1,5 +1,8 @@
 # ws-replay
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Record, replay, and diff WebSocket sessions to reproduce real-time bugs locally.**
 
 > Stop saying "it works on my machine." Capture the exact WebSocket conversation, replay it deterministically, and diff sessions to find what changed.
